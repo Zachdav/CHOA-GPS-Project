@@ -1,0 +1,199 @@
+PWD /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook
+INPUT /usr/local/texlive/2017/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design Notebook.tex
+OUTPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.log
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.aux
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.aux
+OUTPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.aux
+INPUT /usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.out
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.out
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.out
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.out
+OUTPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.pdf
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.out
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.out
+OUTPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.out
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/uga.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/uga.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/uga.png
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.toc
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.toc
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+OUTPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.toc
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/1.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/1.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/1.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/2.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/2.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/2.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/3.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/3.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/3.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/4.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/4.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/4.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/5.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/5.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/5.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/6.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/6.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/6.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/7.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/7.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/7.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/8.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/8.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/8.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/9.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/9.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/9.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/10.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/10.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/10.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/12.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/12.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/12.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/13.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/13.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/13.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/h1.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/h1.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/h1.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/h2.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/h2.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/h2.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/h3.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/h3.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/h3.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/op.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/op.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/op.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/np.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/np.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/np.png
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Enclosure.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Enclosure.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Enclosure.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/DatabaseTable.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/DatabaseTable.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/DatabaseTable.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/GPIOCircuit.jpg
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/GPIOCircuit.jpg
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/GPIOCircuit.jpg
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/PythonFlowchart.PNG
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/PythonFlowchart.PNG
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/PythonFlowchart.PNG
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Gantt.jpg
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Gantt.jpg
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Gantt.jpg
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/PositioningError.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/PositioningError.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/PositioningError.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/iOSApp.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/iOSApp.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/iOSApp.png
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.aux
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.out
+INPUT /Users/zachary/Google Drive/1. University of Georgia/4. Senior Classes UGA/Semester 2/1. Capstone Design II/5. Design Notebook/Design_Notebook.out
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb

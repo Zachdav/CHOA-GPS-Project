@@ -1,0 +1,37 @@
+\documentclass[12pt]{report}
+
+\usepackage{setspace}
+%\setstretch{2.5} % for custom spacing
+\setlength{\parindent}{4em}
+
+\usepackage{fancyvrb}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{hyperref}
+
+\geometry{letterpaper, portrait, margin=0.8in}
+
+%%%Title Page%%%
+\title{
+	\begin{center}
+		\includegraphics[scale=0.5]{uga.png}\\
+ 	\end{center}
+ 	Capstone Group 23
+\bigbreak Showcase Abstract - CHOA Indoor Tracking
+}
+
+\author{\textbf{Alex Sabulski, Brian Weber, \&, Zachary Davis}}
+
+\date{\today}
+%%%%%%%%%%%%
+
+\begin{document}
+\maketitle
+
+\section*{Abstract}
+	\paragraph{}
+		Indoor tracking is cutting-edge technology, and the topic is still being researched, refined, and developed every day. Our group was tasked with designing a portable tracking device along with an application to track ventilators and respirators in a specific wing of the hospital at Children’s Healthcare of Atlanta at Egleston, with the intent to scale. Along with the location tracking, CHOA had further requirements: an in-use detection system and maintenance data to prevent downtime. Our system is made up of a Raspberry Pi in tandom with Pozyx ultra-wideband indoor tracking technology to implement location tracking with 1 - 5cm error radius; an iOS application was built for the hospital staff to easily view the tracking system. The transmitter unit uploads data through the Raspberry Pi using a Python script to a Google Cloud containing a MySQL server, which is accessed/displayed by our iOS application. A button on the device is used to indicate if a ventilator is being used or not along with a corresponding LED on board. We were required to make the transmitter wireless and removable yet, unable to integrate our tracking device with the equipment; the corresponding trade off is rechargable power. We could not use the hospital wing for testing, so we used a diagram of the room that we set the system up in as a replacement as a proof of concept. To fully implement within the hospital wing would simply require updating the appropriate location of the Pozyx anchors in the Python script, connecting the Raspberry Pi to the hospital’s network, and authorizing the hospital’s IP address in our Google Cloud instance. We included a maintenance date and time counter in the database for each tracker ID which can be accessed and managed through the application. To finalize our design, we transferred our implementation from a Raspberry Pi 3 to a Raspberry Pi Zero for size and cost and enclosed the entire tramitter unit in an enclosure to allow for a more-compact tracking device.
+
+
+\end{document}

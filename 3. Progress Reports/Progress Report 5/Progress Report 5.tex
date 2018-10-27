@@ -1,0 +1,63 @@
+\documentclass[11pt]{report}
+
+\usepackage{setspace}
+%\setstretch{2.5} % for custom spacing
+\setlength{\parindent}{4em}
+
+\usepackage{fancyvrb}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{hyperref}
+
+\geometry{letterpaper, portrait, margin=1in}
+
+%%%Title Page%%%
+\title{
+	\begin{center}
+		\includegraphics[scale=0.5]{uga.PNG}\\
+ 	\end{center}
+ 	Progress Report 3
+\bigbreak Group 23: Respiratory GPS Tracker
+}
+
+\author{\textbf{Zachary Davis}}
+
+\date{November 10th, 2017}
+%%%%%%%%%%%%
+
+\begin{document}
+\maketitle
+
+\section*{Progress Report}
+	\begin{center}
+		\author{
+		{\normalsize
+		\begin{tabular}{m{4cm} m{2cm} m{10cm}}
+		\textbf{Date} & \textbf{Hours} & \textbf{Description}\\
+		\hline
+		November 1st, 2017 & 2 & Finished watching the YouTube Series on how to use swift and implemebering different example to practice with.\\
+		&&\\
+		November 4th, 2017 & 4 & Today we officially started the software development as a group in XCode.  As far as the GUI goes things are looking fairly simple.  Our goal is to superimpose the tracked positions on to a map of the main wing of the Hospital and if we can have live tracking of this equipment rather then just a refresh every few seconds or minutes.  On the tracking side of the code it is starting to look more diificult then we were expecting.  The idea of wifi and bluetooth tracking is more complex then we had thought and it is looking like it will be more accurate then GPS, but it will still have an error radius of 2.5-5 meters which in the hospital could easily be the difference between rooms.\\
+		&&\\
+		November 7th, 2017 & <1 & Today Alex found a kit that could be imported to display the Map of the Hospital that would be the main if not only page of our app at the moment.\\
+		&&\\
+		November 10th, 2017 & 2 & Running in to many issues with developing our own set of algorithms we are continuing to look elsewhere to see how others have tackled the issue and if there is anything effective we could build off of.  This has led us to Node.js.  They are using a longer list of hardware then we are including some developed in house by them, but a lot of there work focused on the software and there are some promising leads.
+		\end{tabular}
+		}
+		}
+	\end{center}
+		\textbf{Total Hours Since Last Update: } 8\\
+		\textbf{Total Hours: } 43
+
+\newpage
+
+\section*{Comments}
+	\paragraph*{}
+		After all the time we have spent researching promising methods for this project in the first half of the semester we have begun to realize that the largest hurdle of the project will be in the software development.  A lot of different groups have tried it and not many that we have found have had total success.  The battle for us will be accuracy versus power consumption since our clients need mobility and dont want us piggy backing power from their equipment.  Having begun the development process we are finding that bluetooth is lacking the range and wifi in to inaccurate for the size of the hospital room.  The following weeks will involve some more research into others groups work and solutions to this problem and further software development.
+
+\section*{Design Notebook Link}
+	\begin{center}
+		\href{https://docs.google.com/document/d/1_15R62LK1jZ8SYRuCrb-5IObISIdbLSfoH2bRU7464c/edit?usp=sharing}{Link}
+	\end{center}
+\end{document}

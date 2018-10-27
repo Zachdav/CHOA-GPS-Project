@@ -1,0 +1,63 @@
+\documentclass[11pt]{report}
+
+\usepackage{setspace}
+%\setstretch{2.5} % for custom spacing
+\setlength{\parindent}{4em}
+
+\usepackage{fancyvrb}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{hyperref}
+
+\geometry{letterpaper, portrait, margin=1in}
+
+%%%Title Page%%%
+\title{
+	\begin{center}
+		\includegraphics[scale=0.5]{uga.PNG}\\
+ 	\end{center}
+ 	Progress Report 3
+\bigbreak Group 23: Respiratory GPS Tracker
+}
+
+\author{\textbf{Zachary Davis}}
+
+\date{\today}
+%%%%%%%%%%%%
+
+\begin{document}
+\maketitle
+
+\section*{Progress Report}
+	\begin{center}
+		\author{
+		{\normalsize
+		\begin{tabular}{m{4cm} m{2cm} m{10cm}}
+		\textbf{Date} & \textbf{Hours} & \textbf{Description}\\
+		\hline
+		February 13th, 2018 & $4$ & We finally are expecting our hardware to arrive this week so as a group we met up and started to restructured out github repository. We initially had many programs and a large amount of code from last semester when we tried to use bluetooth to track the pi and we need to switch over to include the pozyx and arduino libraries and transfer what we have to work with our new hardware and UltraBand Technology tracking.\\
+		&&\\
+		February 19th, 2018 & $<1$ & The harware finally arrived. I personally picked up the Pozyx Development Kit and I took out the tracking chips and started initialzing the shields with my arduinos. It took a while for these to ship form the UK so we lost some time and need to catch back up.\\
+		&&\\
+		February 20th, 2018 & $2$ & Today we setup the four anchors in Alex's room and started writing the code in the Arduino IDE with the help of the Pozyx documentation site and the example programs. Four of the five shields were calibrated correctly from yesterday and we had to re calibrate the fourth.  Not using the anchors and just running our code to test the range between the two shields we were seeing result even better then expected for this hardware. Im sure that will degrade when we start localizing form the anchors but it is good news either way.\\
+		&&\\
+		February 21st, 2018 & $4$ & Today I moved into localization. Previously we were using the UltraBand Tech on the shields to have one act as a reciever and the other as a transmitter and test there range from each other using the LEDs on both Arduinos to light up for every 5cm more apart from each other. While its great for calibration and hardware testing and farmiliarizing ourselves with the hardware it is not our goal for the project. That is were localization comes in and in the test room we use four anchors or ICs that wont be moving and in a preciese location each to triangulate a shield the four measuring time of course. Results we ok we still need to improve the accuracy we are not seeing uncertainty that we were expecting and the sample rate is saturating, but we are tracking finally in real time.\\
+		&&\\
+		February 22nd, 2018 & $2$ & Today we met up as a group to again turn our focus back to software. We have been waiting for this hardware so long that we were worried about the missed time, but we had a lot of success and decided we need to focus on the app. We need to store data and overlay on GUI map of the hospital.\\
+		\end{tabular}
+		}
+		}
+	\end{center}
+		\textbf{Total Hours Since Last Update: } 13\\
+		\textbf{Total Hours: } 78
+
+\section*{Comments}
+	\paragraph*{}
+		This week we finally collected our hardware and so for the past two weeks that was our entire focus. We made progress though and have started the localization of the shields. Hopefully in the coming weeks we will be able to finish and tweek that so that all that is left to do is the app making all the hardware more presentable.
+
+\section*{Design Notebook Link}
+	\begin{center}
+		\href{https://docs.google.com/document/d/1_15R62LK1jZ8SYRuCrb-5IObISIdbLSfoH2bRU7464c/edit?usp=sharing}{Link}
+	\end{center}
+\end{document}

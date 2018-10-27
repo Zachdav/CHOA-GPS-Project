@@ -1,0 +1,91 @@
+\documentclass[11pt]{report}
+
+\usepackage{setspace}
+%\setstretch{2.5} % for custom spacing
+\setlength{\parindent}{4em}
+
+\usepackage{fancyvrb}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{hyperref}
+
+\geometry{letterpaper, portrait, margin=1in}
+
+%%%Title Page%%%
+\title{
+  Progress Report 3
+\bigbreak Group 23: Respiratory GPS Tracker
+}
+
+\author{\textbf{Zachary Davis}}
+
+\date{\bigskip
+\today}
+%%%%%%%%%%%%
+
+\begin{document}
+\maketitle
+
+\section*{Progress Report}
+	\begin{center}
+		\author{
+		{\normalsize
+		\begin{tabular}{m{4cm} m{2cm} m{10cm}}
+		\textbf{Date} & \textbf{Hours} & \textbf{Description}\\
+		\hline
+		October 18th - 26th, 2017 & 8 & Alex found a highly rated series of videos/tutorials on how to 
+		program in Swift.  Swift is a language used to develop application in iOS the operating 
+		system of all iPhones.  The iPhone application is what the clients requested to be the 
+		user interface and the software used to communicate with the raspberry pies.  \\\\&&\href{https://www.youtube.com/watch?v=83WXmhin_LU}{Youtube Series}\\
+		 & & \\
+		October 20th - 23rd, 2017 & 2+ & Powering the pie is the only part of this project I am 
+		currnetly up happy with.  Our clients did not want us to pull power from the equipment, 
+		which is the most integrated, permenant, and clean solution.  The bandaid to the problem 
+		is of course external batteries, which are ugly, unfinished, and consumable.  Instead, you 
+		could uses and much larger battery power supply in the neighborhood of 10,000 mAh that 
+		will last a long time and be rechargable. Thiw would look slightly better but nonetheless 
+		is still a hassle for the end user that does not need to be there.  Especially in the case 
+		of the nurses we spoke with who stressed many times that this has to help without adding 
+		any steps to there current way of using the equipment.  Some how the idea of locating 
+		equipment that now needs to be charged doesn't really do that.  I would like to reach out 
+		to the client and see if the limitation of integrating power is set in stone and if it is 
+		my final idea for now is solar.  A small panel on the outside of the enclosure that 
+		provides the low amps needed by the pie as well as a pie that is in an off state when it 
+		is obivous it wont be tracked.\\
+		 & & \\
+		October 23rd, 2017 & Under 1 & Alex began to look for enclosures for the raspberry 
+		pie.  The reason we have waited so long to do this is because of a couple requirements.  
+		We wanted to first determine whether or not we would need an external switch on the 
+		enclosure for determining in-use/not-use state or a change in temperature from the 
+		equipment.  We decided on a switch after now starting for two reasons.  One the change 
+		in temperature method assumes that all equipment to be tracked have a large enough delta 
+		and there is the added sensor expense on every tracker.  This all to say we now know we 
+		need an enclosure that will incorperate a push-button.\\
+		\end{tabular}
+		}
+		}
+	\end{center}
+		\textbf{Total Hours Since Last Update: } 10\\
+		\textbf{Total Hours: } 35
+
+\newpage
+
+\section*{Comments}
+	\paragraph*{}
+		So far we have spent basically all of our time on the specifics of how to triangulate the 
+		necessary hospital equipment and while we definitely have settled on a good idea it was 
+		time to shift our focus.  Both of my group members and I began to learn how to program in
+		Swift from tutorial videos found by Alex.  I too watched these videos and spent some time 
+		in XCode practicing as well as translating our idea into software.  However another area 
+		that needs some attention is power.  Dr. Johnsen asked a good question during our 
+		presentation about how a battery is a fairly temporary answer to the problem.  However, 
+		being that our clients do not want us to pull power from the equipment itself we are left 
+		with a big problem.  Ontop of software I am spending time looking for a more convient and 
+		permenant solution to the power problem.
+
+\section*{Design Notebook Link}
+	\begin{center}
+		\href{https://docs.google.com/document/d/1_15R62LK1jZ8SYRuCrb-5IObISIdbLSfoH2bRU7464c/edit?usp=sharing}{Link}
+	\end{center}
+\end{document}

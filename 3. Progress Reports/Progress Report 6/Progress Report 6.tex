@@ -1,0 +1,67 @@
+\documentclass[11pt]{report}
+
+\usepackage{setspace}
+%\setstretch{2.5} % for custom spacing
+\setlength{\parindent}{4em}
+
+\usepackage{fancyvrb}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{hyperref}
+
+\geometry{letterpaper, portrait, margin=1in}
+
+%%%Title Page%%%
+\title{
+	\begin{center}
+		\includegraphics[scale=0.5]{uga.PNG}\\
+ 	\end{center}
+ 	Progress Report 6
+\bigbreak Group 23: Respiratory GPS Tracker
+}
+
+\author{\textbf{Zachary Davis}}
+
+\date{December 1st, 2017}
+%%%%%%%%%%%%
+
+\begin{document}
+\maketitle
+
+\section*{Progress Report}
+	\begin{center}
+		\author{
+		{\normalsize
+		\begin{tabular}{m{4cm} m{2cm} m{10cm}}
+		\textbf{Date} & \textbf{Hours} & \textbf{Description}\\
+		\hline
+		November 15th, 2017 & 2 & After talking with Alex, today was all about finding a way to increase the range of bluetooth for bluetooth triangulation or increasing the accuracy of the wifi traingulation.  I did not have high hopes for this because the traditional way to increase accuracy in triangulation is increasing the number of "satellites" or in our case access points around the hospital which are very limited in numbers.\\
+		&&\\
+		November 15th, 2017 & 2 & In our research Alex found a project called pozyx.  They have been able to construct harware that has a larger range then bluetooth and increased accuracy compared to both of them with regards to indoor location tracking.  This is exactly the problems we have been having and need to solve.  They do not provide much in the way of software and we would still need to indegrate what they do bring into our app for our particular purposes, but this harware would allow us to have accuracy far beyond what we anticipated and could even implement it such that it will live track there equipment as it is being moved around.\\
+		&&\\
+		November 15th, 2017 & <1 & Having determined that we would not be able to go on creating out work from scratch and having found help from the pozyx project we needed to re-work our plan and budget.  Me and Alex did this together and decided that we would still need to raspberry pi from our initial proposal but would like to add some anchors to complete this new plan.\\
+		&&\\
+		November 28th, 2017 & 2 & Began working on the groups final report and presentation for the end of the semester, outlining what has changed and where we stand.\\
+		&&\\
+		November 29th, 2017 & <1 & As a group we constructed and email with the people from pozyx discussing the project and our goals looking for some insight and aid.\\
+		&&\\
+		November 29th, 2017 & 2 & Spent time working on the project with Alex and Brian for a significant amount of time trying to finalize as much as possible as finals are coming up and free time will be at a premium.\\
+		\end{tabular}
+		}
+		}
+	\end{center}
+		\textbf{Total Hours Since Last Update: } 10\\
+		\textbf{Total Hours: } 53
+
+\newpage
+
+\section*{Comments}
+	\paragraph*{}
+		What I pressume will be our greatest failure while working on this project was assuming that we would be able to develop the software from the ground up with little to no help from elsewhere.  This led to many issues and paths that took up a lot of our time and woud not work.  We have brought them up many times in these progress reports.  We thought that we would have a prototype completed in time to begin optimizing power consumption and finding a cleaner and lower maintaince solution then batteries, but have instend spent most of our time trying to find a method of indoor location that will even be accurate enough to locate equipment down to a room and floor in a consistantly reliable way.  While we now believe we have a solution I do wish we had found this earlier in a our research process as it could have saved us a lot of time and trouble and we could be further ahead today.
+
+\section*{Design Notebook Link}
+	\begin{center}
+		\href{https://docs.google.com/document/d/1_15R62LK1jZ8SYRuCrb-5IObISIdbLSfoH2bRU7464c/edit?usp=sharing}{Link}
+	\end{center}
+\end{document}

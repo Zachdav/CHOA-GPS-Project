@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Problem Statement}{4}{section.1}
+\contentsline {section}{\numberline {2}Requirements}{4}{section.2}
+\contentsline {section}{\numberline {3}Contact w/ Clients}{5}{section.3}
+\contentsline {section}{\numberline {4}Visiting the Hospital}{10}{section.4}
+\contentsline {section}{\numberline {5}Overall Plans}{12}{section.5}
+\contentsline {subsection}{\numberline {5.1}Old Plan}{12}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}New Plan}{13}{subsection.5.2}
+\contentsline {section}{\numberline {6}Weekly Updates}{13}{section.6}
+\contentsline {subsection}{\numberline {6.1}Week 1 \& 2}{13}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Week 3 \& 4}{15}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Week 5 \& 6}{15}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Week 7 \& 8}{16}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Week 9 \& 10}{17}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}Week 11 \& 12}{17}{subsection.6.6}
+\contentsline {subsection}{\numberline {6.7}Week 13 \& 14}{18}{subsection.6.7}
+\contentsline {subsection}{\numberline {6.8}Week 15 \& 16}{19}{subsection.6.8}
+\contentsline {subsection}{\numberline {6.9}Week 17 \& 18}{19}{subsection.6.9}
+\contentsline {subsection}{\numberline {6.10}Week 19 \& 20}{20}{subsection.6.10}
+\contentsline {subsection}{\numberline {6.11}Week 21 \& 22}{21}{subsection.6.11}
+\contentsline {section}{\numberline {7}Final Product}{21}{section.7}
+\contentsline {section}{\numberline {8}Source Code}{22}{section.8}
+\contentsline {subsection}{\numberline {8.1}Raspberry Pi 3}{22}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Pozyx Anchors}{23}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Firebase Database}{23}{subsection.8.3}
+\contentsline {subsection}{\numberline {8.4}Application}{24}{subsection.8.4}
